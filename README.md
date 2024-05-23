@@ -12,6 +12,7 @@ Explanation 1: If the User inputs range, let’s say from 1 to 100. And compiler
 Total Number of Guesses = 7
 
 Algorithm: Below are the Steps:
+
 User inputs the lower bound and upper bound of the range.
 The compiler generates a random integer between the range and store it in a variable for future references.
 For repetitive guessing, a while loop will be initialized.
